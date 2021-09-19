@@ -1,0 +1,372 @@
+@font-face {
+  font-family: 'dentco';
+  src:  url('fonts/dentco61ca.eot?yib338');
+  src:  url('fonts/dentco61ca.eot?yib338#iefix') format('embedded-opentype'),
+    url('fonts/dentco61ca.ttf?yib338') format('truetype'),
+    url('fonts/dentco61ca.woff?yib338') format('woff'),
+    url('fonts/dentco61ca.svg?yib338#dentco') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'dentco' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-eye-1:before {
+  content: "\e965";
+}
+.icon-eye-3:before {
+  content: "\e966";
+}
+.icon-eye-4:before {
+  content: "\e967";
+}
+.icon-eye-5:before {
+  content: "\e968";
+}
+.icon-eye-6:before {
+  content: "\e969";
+}
+.icon-glasses:before {
+  content: "\e96a";
+}
+.icon-eye-7:before {
+  content: "\e96b";
+}
+.icon-glasses-2:before {
+  content: "\e96c";
+}
+.icon-eye-2:before {
+  content: "\e96d";
+}
+.icon-gynecology:before {
+  content: "\e95b";
+}
+.icon-brain:before {
+  content: "\e95c";
+}
+.icon-cardiology:before {
+  content: "\e95d";
+}
+.icon-terapevt:before {
+  content: "\e95e";
+}
+.icon-dental:before {
+  content: "\e95f";
+}
+.icon-genetics:before {
+  content: "\e960";
+}
+.icon-farmalogy:before {
+  content: "\e961";
+}
+.icon-lab:before {
+  content: "\e962";
+}
+.icon-pediatrics:before {
+  content: "\e963";
+}
+.icon-traumatology:before {
+  content: "\e964";
+}
+.icon-birthday-cake:before {
+  content: "\e939";
+}
+.icon-emergency:before {
+  content: "\e93a";
+}
+.icon-tooth-1:before {
+  content: "\e93b";
+}
+.icon-hand:before {
+  content: "\e93c";
+}
+.icon-placeholder3:before {
+  content: "\e93d";
+}
+.icon-play:before {
+  content: "\e93e";
+}
+.icon-tooth-2:before {
+  content: "\e93f";
+}
+.icon-tooth-3:before {
+  content: "\e940";
+}
+.icon-tooth-4:before {
+  content: "\e941";
+}
+.icon-tooth-5:before {
+  content: "\e942";
+}
+.icon-zoob:before {
+  content: "\e943";
+}
+.icon-man:before {
+  content: "\e944";
+}
+.icon-mommy:before {
+  content: "\e945";
+}
+.icon-medicine:before {
+  content: "\e946";
+}
+.icon-pharmacy:before {
+  content: "\e947";
+}
+.icon-principles:before {
+  content: "\e948";
+}
+.icon-sign:before {
+  content: "\e949";
+}
+.icon-surgery:before {
+  content: "\e94a";
+}
+.icon-syringe:before {
+  content: "\e94b";
+}
+.icon-ambulance:before {
+  content: "\e94c";
+}
+.icon-woman:before {
+  content: "\e94d";
+}
+.icon-body:before {
+  content: "\e94e";
+}
+.icon-body1:before {
+  content: "\e94f";
+}
+.icon-doctor:before {
+  content: "\e950";
+}
+.icon-first-aid-kit:before {
+  content: "\e951";
+}
+.icon-flask:before {
+  content: "\e952";
+}
+.icon-injecting:before {
+  content: "\e953";
+}
+.icon-injecting-syringe:before {
+  content: "\e954";
+}
+.icon-search:before {
+  content: "\e955";
+}
+.icon-arrow-right:before {
+  content: "\e900";
+}
+.icon-birthday:before {
+  content: "\e901";
+}
+.icon-black-envelope:before {
+  content: "\e902";
+}
+.icon-calendar:before {
+  content: "\e903";
+}
+.icon-calendar2:before {
+  content: "\e904";
+}
+.icon-cart:before {
+  content: "\e905";
+}
+.icon-check-mark:before {
+  content: "\e906";
+}
+.icon-clock:before {
+  content: "\e907";
+}
+.icon-clock2:before {
+  content: "\e908";
+}
+.icon-dental-chair:before {
+  content: "\e909";
+}
+.icon-email2:before {
+  content: "\e90a";
+}
+.icon-emergency-call:before {
+  content: "\e90b";
+}
+.icon-error:before {
+  content: "\e90c";
+}
+.icon-facebook-logo:before {
+  content: "\e90d";
+}
+.icon-facebook-logo-circle:before {
+  content: "\e90e";
+}
+.icon-star:before {
+  content: "\e90f";
+}
+.icon-google-plus-circle:before {
+  content: "\e910";
+}
+.icon-google-plus1:before {
+  content: "\e911";
+  color: #f34a38;
+}
+.icon-health-care:before {
+  content: "\e912";
+}
+.icon-clock3:before {
+  content: "\e913";
+}
+.icon-icon-implant:before {
+  content: "\e914";
+}
+.icon-icon-orthodontics:before {
+  content: "\e915";
+}
+.icon-icon-whitening:before {
+  content: "\e916";
+}
+.icon-instagram:before {
+  content: "\e917";
+}
+.icon-link-symbol:before {
+  content: "\e918";
+}
+.icon-medical-kit:before {
+  content: "\e919";
+}
+.icon-menu:before {
+  content: "\e91a";
+}
+.icon-paintbrush:before {
+  content: "\e91b";
+}
+.icon-pencil-writing:before {
+  content: "\e91c";
+}
+.icon-placeholder:before {
+  content: "\e91d";
+}
+.icon-placeholder2:before {
+  content: "\e91e";
+}
+.icon-price-tag:before {
+  content: "\e91f";
+}
+.icon-reply-black:before {
+  content: "\e920";
+}
+.icon-right-arrow:before {
+  content: "\e921";
+}
+.icon-left-arrow:before {
+  content: "\e92f";
+}
+.icon-left:before {
+  content: "\e922";
+}
+.icon-right:before {
+  content: "\e930";
+}
+.icon-top:before {
+  content: "\e931";
+}
+.icon-bottom:before {
+  content: "\e932";
+}
+.icon-smartphone:before {
+  content: "\e923";
+}
+.icon-team:before {
+  content: "\e924";
+}
+.icon-telephone:before {
+  content: "\e925";
+}
+.icon-tick:before {
+  content: "\e926";
+}
+.icon-tooth:before {
+  content: "\e927";
+}
+.icon-tooth2:before {
+  content: "\e928";
+}
+.icon-tooth3:before {
+  content: "\e929";
+}
+.icon-twitter-logo-circle:before {
+  content: "\e92a";
+}
+.icon-twitter-logo:before {
+  content: "\e92b";
+}
+.icon-up-arrow:before {
+  content: "\e92c";
+}
+.icon-user:before {
+  content: "\e92d";
+}
+.icon-user2:before {
+  content: "\e92e";
+}
+.icon-world:before {
+  content: "\e959";
+}
+.icon-globe1:before {
+  content: "\e959";
+}
+.icon-internet1:before {
+  content: "\e959";
+}
+.icon-network:before {
+  content: "\e959";
+}
+.icon-close:before {
+  content: "\e937";
+}
+.icon-instagram-circle:before {
+  content: "\e933";
+}
+.icon-sphere:before {
+  content: "\e95a";
+}
+.icon-globe:before {
+  content: "\e95a";
+}
+.icon-internet:before {
+  content: "\e95a";
+}
+.icon-star-half:before {
+  content: "\e938";
+}
+.icon-innovation:before {
+  content: "\e956";
+}
+.icon-integrity:before {
+  content: "\e957";
+}
+.icon-compassion:before {
+  content: "\e958";
+}
+.icon-pinterest-logo:before {
+  content: "\e934";
+}
+.icon-pinterest-circle:before {
+  content: "\e935";
+}
+.icon-google-logo:before {
+  content: "\e936";
+}

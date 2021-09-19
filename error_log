@@ -1,0 +1,3 @@
+[16-Sep-2021 12:14:50 America/Chicago] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/primzber/livinusmdps.online/app/Controllers/Home.php on line 21
+[16-Sep-2021 12:15:57 America/Chicago] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/primzber/livinusmdps.online/app/Controllers/Home.php on line 21
+[16-Sep-2021 12:17:24 America/Chicago] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/primzber/livinusmdps.online/app/Controllers/Home.php on line 22
